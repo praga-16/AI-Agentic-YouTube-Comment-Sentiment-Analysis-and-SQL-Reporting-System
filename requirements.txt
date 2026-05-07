@@ -1,0 +1,9 @@
+google-api-python-client
+oauth2client
+transformers
+accelerate
+torch
+smolagents
+python-dotenv
+pandas
+sqlalchemy
