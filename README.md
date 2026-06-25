@@ -235,15 +235,15 @@ The system supports these evaluation measures:
 
 ```text
 .
-├─ app.py                      # Main pipeline + agent entrypoint
-├─ requirements.txt            # Python dependencies
-├─ .env.example                # Example environment variables (no real keys)
-├─ README.md                   # Project documentation
-├─ youtube_sentiment.db        # SQLite DB (generated)
-├─ channels.csv                # Export (generated)
-├─ videos.csv                  # Export (generated)
-├─ comments.csv                # Export (generated)
-└─ sentiment_summary.csv       # Export (generated)
+├─ app.py                      
+├─ requirements.txt         
+├─ .env.example                
+├─ README.md                   
+├─ youtube_sentiment.db        
+├─ channels.csv            
+├─ videos.csv     
+├─ comments.csv
+└─ sentiment_summary.csv      
 ```
 
 You can adjust filenames or paths as needed, but keep the core flow the same to match the project specification.
